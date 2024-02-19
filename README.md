@@ -1,3 +1,3 @@
-# Xotoboil Todo App
+# xotoboil-springrest-boilerplate
 
-This is a small boilerplate repo I found out online where you have an example implementation of a full stack app with React + Spring Boot
+This is a small boilerplate : full stack app with React + Spring Boot
