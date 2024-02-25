@@ -12,8 +12,6 @@ function ListTodosComponent() {
     const username = authContext.username
 
     const navigate = useNavigate()
-    
-    const targetDate = new Date(today.getFullYear()+12, today.getMonth(), today.getDay())
 
     const [todos,setTodos] = useState([])
 

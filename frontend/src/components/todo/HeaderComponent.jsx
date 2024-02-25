@@ -16,7 +16,7 @@ function HeaderComponent() {
 					<nav className="navbar navbar-expand-lg">
 						<a
 							className="navbar-brand ms-2 fs-2 fw-bold text-black"
-							href="https://www.xotoboil.com"
+							href="/"
 						>
 							xotoboil
 						</a>
